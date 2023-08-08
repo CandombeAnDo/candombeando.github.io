@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<!-- banner -->
+{{ with .Params.banner }}
+{{ if .enable }}
+<section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background-image: url('{{ .bg_image | relURL }}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="d-none"><img src="{{ .image | relURL }}" alt="Img"></div>
+          {{ with .title }}<h1>{{ . | markdownify }}</h1>{{ end }}
+          {{ with .subtitle }}<div class="subtitle"><p>{{ . | markdownify }}</p></div>{{ end }}
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          {{ with .button }}
+          {{ if .enable }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /banner -->
+
+<!-- separator -->
+{{ with .Params.separator }}
+<div class="separator" style="background-image: url('{{ .bg_image | relURL }}')"></div>
+{{ end }}
+<!-- /separator -->
+
+
+<!-- project-info -->
+{{ if .Params.project_info.enable }}
+{{ partial "project-info.html" . }}
+{{ end }}
+<!-- /project-info -->
+
+
+<!-- recordings -->
+{{ if .Params.recordings.enable }}
+{{ partial "recordings.html" . }}
+{{ end }}
+<!-- /recordings -->
+
+
+<!-- publications -->
+{{ if .Params.publications.enable }}
+{{ partial "publications.html" . }}
+{{ end }}
+<!-- /publications -->
+
+{{ end }}

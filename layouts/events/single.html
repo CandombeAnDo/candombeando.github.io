@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      
+      <div class="col-md-6">
+        <div class="project-details">
+          <h4>Event</h4>
+          <p>{{ .Params.place }}</p>
+          <p>{{ .Date | time.Format ":date_long" }}</p>
+          <p>{{ .Params.location }}</p>
+        </div>
+      </div>
+      <div class="col-md-8">
+        {{ with .Params.image }}
+        <img class="img-responsive w-100" src="{{ . | relURL }}" alt="">
+        {{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-content mt-50">
+          <h2>Abstract</h2>
+          <p>{{ .Params.description | markdownify }}</p>
+          
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

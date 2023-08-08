@@ -1,0 +1,22 @@
+{{ with site.GetPage "/" }}
+{{ with .Params.project_info }}
+<section class="publications">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+          {{ with .content }}<p>{{ . | markdownify }}</p>{{ end }}
+         {{ with .button }}
+          {{ if .enable }}
+          <a class="btn btn-main animated fadeInUp" href="{{ .link | relLangURL }}">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="bottom-image" style="background-image: url('{{ .image_bottom | relURL }}');"></div>
+{{ end }}
+{{ end }}

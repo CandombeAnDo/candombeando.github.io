@@ -1,0 +1,15 @@
+.publications {
+  text-align: center;
+  padding: 90px 0;
+  background-color: #E7E5E2;
+
+  @include tablet {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+p {
+  margin-bottom: 33px;
+  margin-top: 1px;
+}
+
+}

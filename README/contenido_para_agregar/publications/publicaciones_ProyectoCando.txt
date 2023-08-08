@@ -1,0 +1,121 @@
+Clayton, Martin, Simone Tarsitani, Tuomas Eerola, Kelly Jakubowski,
+Laura Leante, Richard Jankowsky, Luis Jure, et al. 2021. “The
+Interpersonal Entrainment in Music Performance Data Collection.”
+Empirical Musicology Review 16 (1): 65–84.
+https://doi.org/10.18061/emr.v16i1.7555.
+
+Fuentes, Magdalena, Lucas Simões Maia, Martín Rocamora, Luiz W. P.
+Biscainho, Helene C. Crayencour, Slim Essid, and Juan P. Bello. 2019.
+“Tracking Beats and Microtiming in Afro-Latin American Music Using
+Conditional Random Fields and Deep Learning.” In ISMIR 2019 : 20th
+Conference of the International Society for Music Information Retrieval,
+Delft, Netherlands, 4-8 Nov, 1–8.
+
+Jacoby, Nori, Rainer Polak, Jessica A. Grahn, Daniel J. Cameron, Kyung
+Myun Lee, Ricardo Godoy, Eduardo A. Undurraga, et al. 2021.
+“Universality and Cross-Cultural Variation in Mental Representations of
+Music Revealed by Global Comparison of Rhythm Priors,” July.
+https://doi.org/10.31234/osf.io/b879v.
+
+Jakubowski, Kelly, Rainer Polak, Martín Rocamora, Luis Jure, and Nori
+Jacoby. 2022. “Aesthetics of Musical Timing: Culture and Expertise
+Affect Preferences for Isochrony but not Synchrony.” Cognition.
+
+Jure, Luis. 1992. “¡‘Perico, suba ahí!’ Pautación y análisis de un solo
+de repique de Pedro ‘Perico’ Gularte.” In VII Jornadas Argentinas de
+Musicología–VI Conferencia Anual de La Asociación Argentina de
+Musicología. Córdoba, Argentina.
+
+———. 1995a. “Los Tambores – Tres llamadas.” DVD, 20 min.
+
+———. 1995b. “Tambores.” CD, 72 min.
+
+———. 2013. “Principios Generativos del Toque de Repique del Candombe.”
+In La música entre África y América, edited by Coriún Aharonián, 263–91.
+Montevideo, Uruguay: Centro Nacional de Documentación Musical Lauro
+Ayestarán.
+
+———. 2017. “Timeline Patterns in Uruguayan Candombe drumming.” In
+44^(th) ICTM World Conference. Limerick, Ireland.
+
+———. 2018. “Improvisation techniques of the repique drum in Uruguayan
+Candombe drumming.” In Fifth International Conference on Analytical
+Approaches to World Music. Thessaloniki, Greece.
+
+Jure, Luis, and Olga Picún. 1992. “Los cortes de los tambores – Aspectos
+musicales y funcionales de las paradas en las llamadas de tambores
+afro-montevideanos.” In VII Jornadas Argentinas de Musicología–VI
+Conferencia Anual de La Asociación Argentina de Musicología. Córdoba,
+Argentina.
+
+Jure, Luis, and Martín Rocamora. 2016. “Microtiming in the rhythmic
+structure of Candombe drumming patterns.” In Fourth International
+Conference on Analytical Approaches to World Music. New York, USA.
+
+———. 2017. “Clave patterns in Uruguayan candombe drumming.” In 16th
+Rhythm Production and Perception Workshop. Birmingham, UK.
+
+———. 2018. “Subir la llamada: negotiating tempo and dynamics in
+Uruguayan Candombe drumming.” In Eigth International Workshop on Folk
+Music Analysis. Thessaloniki, Greece.
+
+———. 2020. “Tempo, Micro–tempo and Dynamics in Uruguayan Candombe
+Drumming.” In Analytical Approaches to World Music.
+
+Jure, Luis, Martín Rocamora, Simone Tarsitani, and Martin Clayton. 2020.
+“IEMP Uruguayan Candombe Dataset.” https://osf.io/kzpvy/.
+https://doi.org/10.17605/OSF.IO/WFX7K.
+
+Maia, Lucas Simões, Martín Rocamora, Luiz W. P. Biscainho, and Magdalena
+Fuentes. 2022. “Adapting Meter Tracking Models to Latin American Music.”
+In Proceedings of the 23rd International Society for Music Information
+Retrieval Conference, ISMIR, Bengaluru, India, 4-8 Dec, 361–68. ISMIR.
+https://iie.fing.edu.uy//publicaciones/2022/MRBF22.
+
+Marenco, Bernardo, Magdalena Fuentes, Florencia Lanzaro, Martín
+Rocamora, and Alvaro Gómez. 2015. “A Multimodal Approach for Percussion
+Music Transcription from Audio and Video.” In Proceedings of the 20th
+Iberoamerican Congress on Pattern Recognition (CIARP 2015), edited by
+Alvaro Pardo and Josef Kittler, 92–99. Montevideo, Uruguay: Springer
+International Publishing.
+http://link.springer.com/chapter/10.1007/978-3-319-25751-8_12.
+
+Marenco, Bernardo, and Martín Rocamora. 2018. “Reconocimiento de
+Patrones Rítmicos En Música de Percusión a Partir de Señales de Audio.”
+In AES LAC 2018 - Congreso Latinoamericano de Ingeniería de Audio,
+Montevideo, Uruguay, 1–3.
+https://iie.fing.edu.uy/publicaciones/2018/MR18.
+
+Nunes, Leonardo, Martín Rocamora, Luis Jure, and Luiz W. P. Biscainho.
+2015. “Beat and downbeat tracking based on rhythmic patterns applied to
+the Uruguayan candombe drumming.” In Proceedings of the 16th
+International Society for Music Information Retrieval Conference (ISMIR
+2015), 246–70. Málaga, Spain.
+http://ismir2015.uma.es/articles/95_Paper.pdf.
+
+Rocamora, Martín. 2018. “Computational Methods for Percussion Music
+Analysis: The Afro-Uruguayan Candombe Drumming as a Case Study.” PhD
+thesis, Montevideo, Uruguay: Universidad de la República.
+
+Rocamora, Martín, and Luiz W. P. Biscainho. 2015. “Modeling Onset
+Spectral Features for Discrimination of Drum Sounds.” In Proceedings of
+the 20th Iberoamerican Congress on Pattern Recognition (CIARP 2015),
+edited by Alvaro Pardo and Josef Kittler, 100–107. Montevideo, Uruguay:
+Springer International Publishing.
+https://doi.org/10.1007/978-3-319-25751-8_13.
+
+Rocamora, Martín, Pablo Cancela, and Luiz W. P. Biscainho. 2019.
+“Information Theory Concepts Applied to the Analysis of Rhythm in
+Recorded Music with Recurrent Rhythmic Patterns.” Journal of the AES 67
+(4): 160–73. https://iie.fing.edu.uy/publicaciones/2019/RCB19.
+
+Rocamora, Martín, Luis Jure, and Luiz W. P. Biscainho. 2014. “Tools for
+Detection and Classification of Piano Drum Patterns from Candombe
+Recordings.” In Proceedings of the 9th Conference on Interdisciplinary
+Musicology (CIM 2014), 382–87. Berlin, Germany.
+
+Rocamora, Martín, Luis Jure, Bernardo Marenco, Magdalena Fuentes,
+Florencia Lanzaro, and Alvaro Gómez. 2015. “An Audio-Visual Database of
+Candombe of Performances for Computational Musicological Studies.” In
+Proceedings of the II Congreso Internacional de Ciencia y Tecnología
+Musical (CICTeM 2015), 17–24. Buenos Aires, Argentina.

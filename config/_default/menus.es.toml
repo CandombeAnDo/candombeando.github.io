@@ -1,0 +1,99 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Acerca de"
+identifier = "about"
+url = ""
+weight = 1
+
+[[main]]
+name = "Candombe"
+parent = "about"
+url  = "/candombe/"
+weight = 11
+
+[[main]]
+name = "Info del proyecto"
+parent = "about"
+url  = "/project/"
+weight = 12
+
+[[main]]
+name = "Equipo"
+parent = "about"
+url  = "/team/"
+weight = 13
+
+[[main]]
+name = "Investigación"
+identifier = "investigation"
+url = ""
+weight = 2
+
+[[main]]
+name = "Publicaciones"
+parent = "investigation"
+url  = "/publications/"
+weight = 21
+
+[[main]]
+name = "Proyectos"
+parent = "investigation"
+url  = "/projects/"
+weight = 22
+
+[[main]]
+name = "Recursos"
+identifier = "resources"
+url = ""
+weight = 3
+
+[[main]]
+name = "Software"
+parent = "resources"
+url  = "/software/"
+weight = 32
+
+[[main]]
+name = "Colecciones"
+parent = "resources"
+url  = "/collections/"
+weight = 33
+
+[[main]]
+name = "Registros"
+url  = "/recordings/"
+weight = 4
+
+# [[main]]
+# name = "Eventos"
+# url = "events/"
+# weight = 4
+
+
+# footer menu
+[[footer]]
+name = "Candombe"
+url = "candombe/"
+weight = 2
+
+[[footer]]
+name = "Info del proyecto"
+url = "project/"
+weight = 3
+
+[[footer]]
+name = "Publicaciones"
+url = "publications/"
+weight = 4
+
+[[footer]]
+name = "Proyectos"
+url = "projects/"
+weight = 5
+
+[[footer]]
+name = "Registros"
+url = "recordings/"
+weight = 6

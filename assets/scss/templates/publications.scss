@@ -1,0 +1,34 @@
+.publications {
+  text-align: center;
+  padding: 90px 0;
+  background-color: #E7E5E2;
+
+  @include tablet {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+p {
+  margin-bottom: 33px;
+  margin-top: 1px;
+  padding-right: 0px;
+  padding-left: 0px;
+  
+  @include extra-large-desktop {
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  @include large-desktop {
+    padding-right: 140px;
+    padding-left: 140px;
+  }
+  @include tablet {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+h2 {
+  font-size: xx-large;
+  margin-bottom: 20px;
+  }
+
+}

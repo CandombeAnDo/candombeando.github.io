@@ -1,0 +1,39 @@
+1991-01-01, Cuerda de Cuareim, campo, audio
+1992-02-19, Kanela y su Barakutanga - Teatro de Verano del Parque Rodo, campo, audio
+1992-02-22, Marabunta - Llamada de la Union, campo, audio
+1992-02-22, Marabunta - Teatro de Verano del Parque Rodo, campo, audio
+1992-02-23, Feria de Tristan Narvaja, campo, audio
+1992-02-25, Morenada - Teatro de Verano del Parque Rodo, campo, audio
+1992-02-26, Sarabanda - Teatro de Verano del Parque Rodo, campo, audio
+1992-03-06, Sarabanda - Teatro de Verano del Parque Rodo, campo, audio
+1992-03-10, Marabunta - Teatro de Verano del Parque Rodo, campo, audio
+1992-04-19, Cuerda de Ansina, campo, audio
+1992-04-19, Cuerda de Cuareim, campo, audio
+1992-05-01, Cuerda de Ansina, campo, audio
+1992-05-18, Cuerda de Ansina, campo, audio
+1992-06-19, Cuerda de Ansina, campo, audio
+1992-12-25, Cuerda de Ansina, campo, audio
+1993-01-01, Cuerda de Cuareim, campo, audio
+1995-11-18, Ansina 1 - CSIC, estudio, audiovisual
+1995-11-18, Ansina 2 - CSIC, estudio, audiovisual
+1995-11-18, Cuareim - CSIC, estudio, audiovisual
+2011-09-04, Cuerda de Ansina, campo, audio
+2014-09-06, Grupo de Ansina - Zavala, estudio, audiovisual
+2016-09-11, Triangulación Kultural - Rubino, estudio, audiovisual
+2016-12-02, Triangulación Kultural - Vaz Ferreira, estudio, audiovisual
+2017-08-07, Triangulación Kultural - Vaz Ferreira, estudio, audiovisual
+2018-06-10, Triangulación Kultural - Sobredosis, estudio, audiovisual
+2018-07-22, Familia Magariños-Giménez, campo, audiovisual
+2018-07-22, Integración - prueba de admisión, campo, audiovisual
+2018-11-03, Cuerda de Ansina - Ansina Ruge, campo, audiovisual
+2019-03-30, Cuerda de Ansina, campo, audiovisual
+2019-08-25, Cuerda de Ansina - Llamada de la Nostalgia, campo, audiovisual 
+2019-08-25, Sarabanda - Llamada de la Nostalgia, campo, audiovisual 
+2019-08-25, Valores - Llamada de la Nostalgia, campo, audiovisual 
+2020-10-03, Kandombe Nativo, campo, audiovisual
+2022-06-18, Neves-Paredes - CSIC/FIC, estudio, audiovisual
+2022-06-18, Sur - CSIC/FIC, estudio, audiovisual
+2022-06-25, Familia Pintos - CSIC/FIC, estudio, audiovisual
+2022-06-25, Suárez-Silva - CSIC/FIC, estudio, audiovisual
+2022-07-02, Ansina - CSIC/FIC, estudio, audiovisual
+2022-07-02, C1080 - CSIC/FIC, estudio, audiovisual

@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.about }}
+{{ if .enable }}
+<section class="about section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .image | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6">
+        {{ with .title }}<h2 class="mt-40">{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.features }}
+{{ if .enable }}
+
+<section class="portfolio-work">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="row shuffle-wrapper">
+            {{ range .feature_item }}
+            <div class="col-xs-12 portfolio-item shuffle-item" >
+              <div>
+                <div>
+                  {{ with .name }}<h3>{{ . | markdownify }}</h3>{{ end }} 
+                  {{ with .link }}<a href="{{ .url }}">{{ .text }}</a>{{ end }}
+                  {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+                </div>
+              </div>
+            </div>
+            <div class="col-1"></div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}
+{{ end }}
+{{ end }}

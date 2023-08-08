@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+
+{{ with .Params.about }}
+{{ if .enable }}
+<section class="about section">
+  <div class="container">
+    <div class="row title-row">
+      <div class="col-md-12">
+        {{ with .title }}<h2 class="mt-40">{{ . | markdownify }}</h2>{{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        {{ with .content }}<p>{{ . | markdownify }}</p>{{ end }}
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="col-md-2"></div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.features }}
+{{ if .enable }}
+<section class="about-feature bg-dark section dark-service">
+  <div class="container">
+    {{ with .title }}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="title">
+          <h2>{{ . | markdownify }}</h2>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    <div class="row">
+      {{ range .feature_item }}
+      <div class="col-md-12">
+        <div class="service-item">
+          {{ with .name }}<h4>{{ . | markdownify }}</h4>{{ end }}
+          {{ with .link }}<a href="{{ .url }}">{{ .text }}<a>{{ end }}
+          {{ with .content }}<p>{{ . | markdownify }}</p>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
