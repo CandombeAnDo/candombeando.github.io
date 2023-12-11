@@ -1,0 +1,21 @@
+---
+page_title: "Recording details"
+bg_image: "images/lonja.jpg"
+title:  "2018.06.10 Sobredosis"  
+artist: "Group of drummers conducted by Sergio Ortuño"  
+date: 2018-06-10  
+id: 2018Ortuno0610
+place: "Río Negro nº..., Patio del Gas"  
+location: "Montevideo, Uruguay"  
+category: ["studio", "audiovisual"]  
+participantes: "Johnatan Suárez, Miguel García, Sergio Martínez, Sergio Ortuño, Gustavo Oviedo, Gabriel Ferreira, Héctor Manuel Suárez, Mario Suárez, Noé Núñez"  
+curator: "Sergio Ortuño"  
+producer: "Sergio Ortuño, Luis Jure"  
+audio_rec: "Luis Jure, Martín Rocamora"  
+audio_ed: "Luis Jure"  
+video_rec: "Luis Jure"  
+video_ed: "Luis Jure"  
+description: "Recording of the track “Sobredosis” for the CD ``Música Negra de la Ciudad de Montevideo Vol. 2'', take 4"  
+tags:  
+
+---

@@ -1,0 +1,61 @@
+================================================================================
+                 README para el directorio de publicaciones
+================================================================================
+
+TODO:
+
+- crear los .md que faltan, siguiendo el criterio de los que ya están (ver criterios abajo)
+- verificar los .bib, unificar formatos y corregir lo que haga falta
+- completar con las publicaciones que faltan, siguiendo los mismos criterios
+
+CRITERIOS:
+
+- nombres de los directorios
+  
+  Por ahora los directorios tienen el nombre de la forma:
+
+  YYYY-MM_CONFYYYY
+
+
+- archivos
+  cada directorio debe tener al menos tres archivos:
+  {dirname}.md
+  {dirname}.pdf
+  {dirname}.bib
+
+  Después se agregará el material complementario que sea pertinente: imágenes, audio y/o video.
+
+- archivos .md
+
+  Hay una plantilla en archetypes para los archivos en el directorio pub, de manera de que creando un .md mediante hugo con este comando:
+
+hugo new pubs/2015-09_CICTeM2015/2015-09_CICTeM2015.md
+
+  el archivo creado ya tiene todos los keys que corresponden.
+  
+  La idea es poner todo el contenido como metadatos, porque después eso permite más flexibilidad para formatear cada campo.
+
+  title: 
+  author: 
+  description: 
+  abstract: 
+  publishdate: 
+  place: 
+  categories: este campo es importante para formatear las páginas, y eventualmente para organizar y agrupar las entradas en la lista.
+  es una lista que tiene "publication", más una de estas cinco categorías que  se me ocurrieron por ahora (cada una de ellas agrega otras categorías específicas):
+  
+  "conference paper", "conference poster", "conference abstract"
+    conference: 
+
+  "book chapter"
+    book: 
+    publisher:
+
+  "journal article"
+    journal:
+
+- formato
+
+  Todos los campos (menos author) pueden llevar formato md: *itálica*, **negrita**, guiones cortos y largos (--, ---) y comillas (' ' y << >>, no se puede usar " "). Excepción: en title no se puede usar *itálica* ni **negrita**, porque no se visualiza bien en la barra del navegador.
+
+
