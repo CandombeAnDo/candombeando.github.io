@@ -52,7 +52,7 @@ about:
     four drums in a recording studio, with professional audio and video equipment. Referents from the Sur
     and Palermo (Cuareim and Ansina) neighborhoods participated, such as brothers Juan, Raúl and
     Waldemar “Cachila” Silva, José Pedro “Perico” Gularte, Eduardo “Cacho” Giménez, brothers Gustavo
-    and Edinson “Oviedo”, Raúl “Neno” Magariños, Fernando “Hurón” Silva and Sergio Ortuño. Several of
+    and Edinson “Palo” Oviedo, Raúl “Neno” Magariños, Fernando “Hurón” Silva and Sergio Ortuño. Several of
     the participating drummers have since passed away, and the recordings made then are the only
     audiovisual document of their playing.
 

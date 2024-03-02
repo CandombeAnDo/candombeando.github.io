@@ -8,7 +8,7 @@ layout: "staticlist"
 
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : ""
   feature_item:
   # project item loop
 
@@ -36,11 +36,6 @@ structure in audio recordings of expressive music performances."
         text :  "https://musicscience.net/projects/iemp/"
     content : "The project aim was to develop a better understanding of how groups of people coordinate behavior
 within a musical context, considering a broad range of musical cultures."
-
-# project item
-  - name : "Iniciación a la documentación y análisis del candombe afro–montevideano (CSIC, 1995-1996)"
-    content : "In this project, the analysis of music interpretation was addressed through multimodal signal
-processing techniques, taking the Afro-Uruguayan Candombe as a case study."
 
 # project item
   - name : "Iniciación a la documentación y análisis del candombe afro–montevideano (CSIC, 1995-1996)"
