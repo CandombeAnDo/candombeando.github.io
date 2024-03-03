@@ -8,7 +8,7 @@ id : 2022FicSuarezSilva07
 place: "Facultad de Información y Comunicación -- FIC"  
 location: "Montevideo, Uruguay"  
 category: ["studio", "audiovisual"]
-participantes: "Wellington Suárez, Mario Suárez, Martín Silva, Héctor Manuel Suárez"  
+participants: "Wellington Suárez, Mario Suárez, Martín Silva, Héctor Manuel Suárez"  
 curator: "Luis Jure"  
 producer: "Luis Jure, Martín Rocamora"  
 audio_rec: "Martín Rocamora, Santiago Bogacz, Luis Jure"  
