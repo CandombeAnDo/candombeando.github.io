@@ -11,7 +11,7 @@
       <div class="col-md-8">
         <div class="project-details">
           <p>{{ .Params.artist | markdownify }}</p>
-          <p>{{ .Params.date.Format "January 2, 2006" }}</p>
+          <p>{{ .Date | time.Format ":date_long" }}</p>
           <p>{{ .Params.place | markdownify }}</p>
 
 
