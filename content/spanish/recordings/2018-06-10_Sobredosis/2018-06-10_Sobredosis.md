@@ -4,7 +4,7 @@ bg_image: "images/lonja.jpg"
 title:  "2018-06-10 Sobredosis"  
 artist: "Grupo de tambores dirigido por Sergio Ortuño"  
 date: "2018-06-10"  
-place: "Río Negro nº 1027, Patio del Gas"  
+place: "Río Negro nº 1027, Patio antigua usina de gas del Barrio Sur"  
 category: ["estudio" , "video"]  
 audio_rec: "Luis Jure, Martín Rocamora"  
 audio_ed: "Luis Jure"  

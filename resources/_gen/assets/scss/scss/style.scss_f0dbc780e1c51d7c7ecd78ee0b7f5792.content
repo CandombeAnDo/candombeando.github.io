@@ -69,9 +69,11 @@ img {
 a,
 a:focus,
 a:hover {
-  text-decoration: none;
   outline: 0;
   color: #D80901; }
+
+a:hover {
+  text-decoration: underline; }
 
 blockquote {
   font-size: 18px;
@@ -226,14 +228,11 @@ input[type="tel"] {
   background: #202122; }
 
 .section {
-  padding: 100px 0; }
+  padding: 50px 0; }
   @media (max-width: 768px) {
     .section {
       padding-top: 20px;
-      padding-bottom: 20px; } }
-.section-sm {
-  padding: 70px 0; }
-
+      padding-bottom: 30px; } }
 .title {
   padding: 20px 0 30px; }
   .title h2 {
@@ -266,15 +265,15 @@ input[type="tel"] {
     .section-subtitle {
       font-size: 24px; } }
 .page-title {
-  padding: 100px 0; }
+  padding: 60px 0; }
   @media (max-width: 400px) {
     .page-title {
-      padding: 40px 0 40px 0;
-      font-size: 20px; } }
+      padding: 20px 0 20px 0;
+      font-size: 18px; } }
   @media (max-width: 480px) {
     .page-title {
       padding: 40px 0 40px 0;
-      font-size: 18px; } }
+      font-size: 20px; } }
   .page-title .block {
     text-align: center; }
     .page-title .block h1 {
@@ -602,6 +601,9 @@ header {
     border: 0px; }
   header .navbar-brand {
     padding-top: 5px; }
+    @media (max-width: 480px) {
+      header .navbar-brand {
+        width: 60%; } }
   header .navbar-default {
     background: none;
     border: 0px; }
@@ -880,11 +882,23 @@ header .navbar-default .navbar-nav li a:hover {
     margin-bottom: 30px; }
 
 .portfolio-work {
-  padding: 80px 0; }
+  padding: 40px 0; }
+  @media (max-width: 400px) {
+    .portfolio-work {
+      padding: 20px 0; } }
+  @media (max-width: 480px) {
+    .portfolio-work {
+      padding: 20px 0; } }
   .portfolio-work .block .portfolio-menu {
     text-align: center; }
     .portfolio-work .block .portfolio-menu .btn-group {
       margin-bottom: 40px; }
+      @media (max-width: 400px) {
+        .portfolio-work .block .portfolio-menu .btn-group {
+          margin-bottom: 10px; } }
+      @media (max-width: 480px) {
+        .portfolio-work .block .portfolio-menu .btn-group {
+          margin-bottom: 10px; } }
       .portfolio-work .block .portfolio-menu .btn-group label {
         display: inline-block;
         border: 1px solid #ACB9C4;
@@ -904,7 +918,19 @@ header .navbar-default .navbar-nav li a:hover {
 
 .portfolio-item {
   position: relative;
-  padding: 20px; }
+  padding: 15px; }
+  .portfolio-item h3 {
+    margin-top: 15px; }
+  @media (max-width: 400px) {
+    .portfolio-item {
+      padding: 10px 20px; }
+      .portfolio-item h3 {
+        font-size: large; } }
+  @media (max-width: 480px) {
+    .portfolio-item {
+      padding: 10px 15px; }
+      .portfolio-item h3 {
+        font-size: large; } }
   .portfolio-item img {
     width: 100%;
     height: auto; }
@@ -944,6 +970,20 @@ header .navbar-default .navbar-nav li a:hover {
     .portfolio-content a.h3 {
       margin-top: 0; }
 
+.portfolio-single-page-title h1 {
+  font-size: large;
+  color: #FFFFF6; }
+
+.portfolio-single-page .item-details {
+  padding: 30px 0 40px 0; }
+  @media (max-width: 480px) {
+    .portfolio-single-page .item-details {
+      padding: 20px; } }
+  .portfolio-single-page .item-details video {
+    max-width: 1280px; }
+    @media (max-width: 480px) {
+      .portfolio-single-page .item-details video {
+        max-width: 100%; } }
 .portfolio-single-page .project-details h4 {
   margin-bottom: 20px;
   padding-bottom: 10px;
@@ -1503,6 +1543,9 @@ header .navbar-default .navbar-nav li a:hover {
 
 .about .block img {
   width: 100%; }
+
+.about .title-row {
+  text-align: center; }
 
 .about .about-img {
   overflow: hidden; }

@@ -10,7 +10,7 @@
       
       <div class="col-md-8">
         <div class="project-details">
-          <p>{{ .Params.description }}</p>
+          <p>{{ .Params.description | markdownify }}</p>
           <p>{{ .Params.author }}</p>
           <p>{{ .Params.date.Format "January 2, 2006" }}</p>
           <p>{{ .Params.place }}</p>
