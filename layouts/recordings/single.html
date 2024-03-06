@@ -30,24 +30,15 @@
         </div>
       </div>
     </div>
-    {{ $recordingpath := trim .Page.RelPermalink "/" }}
+    {{ $recordingpath := trim .Page.RelPermalink "es/" }}
+    {{ $video := print $recordingpath ".mp4"}}
+    {{ $poster := print $recordingpath ".png" }}
     <div class="row">
-      {{ with .File }}
       <div class="col-md-8">
-        {{ $video := print .Dir .BaseFileName ".mp4"}}
-        {{ if fileExists $video }}
-          {{ $videourl := print $recordingpath ".mp4" }}
-            
-          {{ $recordingposter := print .Dir .BaseFileName ".png"}}
-          {{ if fileExists $recordingposter }}
-            {{ $posterurl := print $recordingpath ".png" }}
-            <video controls poster="{{ $posterurl | relURL }}"> 
-              <source src="{{ $videourl | relURL }}" type="video/mp4"> 
-            </video> 
-          {{ end }}
-        {{ end }}  
+          <video controls poster="{{ $poster | relURL }}"> 
+            <source src="{{ $video | relURL }}" type="video/mp4"> 
+          </video> 
       </div>
-      {{ end }}
     </div>
   </div>
 </section>

@@ -12,7 +12,7 @@
         <div class="project-details">
           <p>{{ .Params.description | markdownify }}</p>
           <p>{{ .Params.author }}</p>
-          <p>{{ .Params.date.Format "January 2, 2006" }}</p>
+          <p>{{ .Date | time.Format ":date_long" }}</p>
           <p>{{ .Params.place }}</p>
           {{ with .Params.conference }}
           <p>{{ . | markdownify}}</p>
@@ -28,18 +28,15 @@
           {{ end }}
         </div>
       </div>
-      {{ $publicationpath := trim .Page.RelPermalink "/" }}
+      {{ $publicationpath := trim .Page.RelPermalink "es/" }}
+      {{ $publicationpng := print $publicationpath ".png" }}
+      {{ $publicationjpg := print $publicationpath ".jpg" }}
       <div class="col-md-8">
         {{ with .File }}
-          {{ $publicationpng := print .Dir .BaseFileName ".png"}}
           {{ if fileExists $publicationpng }}
-            {{ $publicationpngurl := print $publicationpath ".png" }}
-            <img src="{{ $publicationpngurl | relURL }}" alt="{{ .BaseFileName }}">
-          {{ else }}  
-            {{ $publicationjpg := print .BaseFileName ".jpg"}}
-            {{ if fileExists $publicationjpg }}
-              <img src="{{ $publicationjpg }}" alt="{{ .BaseFileName }}">
-            {{ end }}  
+              <img src="{{ $publicationpng | relURL }}" alt='{{ trim .BaseFileName ".es" }}'>
+          {{ else if fileExists $publicationjpg }}
+              <img src="{{ $publicationjpg | relURL}}" alt='{{ trim .BaseFileName ".es" }}'>
           {{ end }}
         {{ end }}
       </div>
@@ -55,21 +52,16 @@
     </div>
     </br>
     {{ end }}
+
     <div class="row">
       {{ with .File }}
       <div class="col-md-8">
-        {{ $publicationbib := print .Dir .BaseFileName ".bib"}}
-        {{ if fileExists $publicationbib }}
-          {{ $publicationbiburl := print $publicationpath ".bib" }}
-          <h5>BIB</h5><a href="{{ $publicationbiburl | relURL  }}">{{ $publicationbiburl }}</a>
-        {{ end }}
+        {{ $publicationbib := print $publicationpath ".bib" }}
+          <h5>BIB</h5><a href="{{ $publicationbib | relURL  }}">{{ $publicationbib }}</a>
       </div>
       <div class="col-md-8">
-        {{ $publicationpdf := print .Dir .BaseFileName ".pdf"}}
-        {{ if fileExists $publicationpdf }}
-          {{ $publicationpdfurl := print $publicationpath ".pdf" }}
-          <h5>PDF</h5><a href="{{ $publicationpdfurl | relURL  }}">{{ $publicationpdfurl }}</a>
-        {{ end }}
+        {{ $publicationpdf := print $publicationpath ".pdf" }}
+          <h5>PDF</h5><a href="{{ $publicationpdf | relURL  }}">{{ $publicationpdf }}</a>
       </div>
       {{ end }}
     </div>
