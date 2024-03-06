@@ -35,9 +35,11 @@
     {{ $poster := print $recordingpath ".png" }}
     <div class="row">
       <div class="col-md-8">
+          {{ if fileExists $video }}
           <video controls poster="{{ $poster | relURL }}"> 
             <source src="{{ $video | relURL }}" type="video/mp4"> 
           </video> 
+          {{ end }}
       </div>
     </div>
   </div>
