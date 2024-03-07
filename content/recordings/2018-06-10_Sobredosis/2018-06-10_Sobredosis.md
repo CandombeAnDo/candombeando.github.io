@@ -5,7 +5,7 @@ title:  "2018.06.10 Sobredosis"
 artist: "Group of drummers conducted by Sergio Ortuño"  
 date: 2018-06-10  
 id: 2018Ortuno0610
-place: "Río Negro nº..., Patio del Gas"  
+place: "Río Negro 1027"  
 location: "Montevideo, Uruguay"  
 category: ["studio", "audiovisual"]  
 participants: "Johnatan Suárez, Miguel García, Sergio Martínez, Sergio Ortuño, Gustavo Oviedo, Gabriel Ferreira, Héctor Manuel Suárez, Mario Suárez, Noé Núñez"  
