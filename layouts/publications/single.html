@@ -55,14 +55,18 @@
 
     <div class="row">
       {{ with .File }}
-      <div class="col-md-8">
-        {{ $publicationbib := print $publicationpath ".bib" }}
-          <h5>BIB</h5><a href="{{ $publicationbib | relURL  }}">{{ $publicationbib }}</a>
-      </div>
-      <div class="col-md-8">
-        {{ $publicationpdf := print $publicationpath ".pdf" }}
-          <h5>PDF</h5><a href="{{ $publicationpdf | relURL  }}">{{ $publicationpdf }}</a>
-      </div>
+          {{ $publicationbib := print $publicationpath ".bib" }}
+          {{ $publicationpdf := print $publicationpath ".pdf" }}
+          {{ if fileExists $publicationbib }}
+          <div class="col-md-8">
+              <h5>BIB</h5><a href="{{ $publicationbib | relURL  }}">{{ $publicationbib }}</a>
+          </div>
+          {{ end }}
+          {{ if fileExists $publicationpdf }}
+          <div class="col-md-8">
+              <h5>PDF</h5><a href="{{ $publicationpdf | relURL  }}">{{ $publicationpdf }}</a>
+          </div>
+          {{ end }}
       {{ end }}
     </div>
 
