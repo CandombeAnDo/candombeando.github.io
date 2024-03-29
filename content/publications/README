@@ -14,16 +14,19 @@ CRITERIOS:
   
   Por ahora los directorios tienen el nombre de la forma:
 
-  YYYY-MM_CONFYYYY
+  YYYY-MM_ZZZYYYY
 
+  YYYY: año
+  MM: mes
+  ZZZ: abreviación de la conferencia o la publicación
 
 - archivos
-  cada directorio debe tener al menos tres archivos:
+  cada directorio debe contener estos archivos:
   {dirname}.md
+  {dirname}.es.md
+  {dirname}.png
   {dirname}.pdf
   {dirname}.bib
-
-  Después se agregará el material complementario que sea pertinente: imágenes, audio y/o video.
 
 - archivos .md
 
@@ -45,13 +48,16 @@ hugo new pubs/2015-09_CICTeM2015/2015-09_CICTeM2015.md
   es una lista que tiene "publication", más una de estas cinco categorías que  se me ocurrieron por ahora (cada una de ellas agrega otras categorías específicas):
   
   "conference paper", "conference poster", "conference abstract"
+  (es: "artículo de conferencia", "poster", "abstract")
     conference: 
 
   "book chapter"
+  (es: "capítulo de libro")
     book: 
     publisher:
 
   "journal article"
+  (es: "artículo de revista")
     journal:
 
 - formato
