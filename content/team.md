@@ -1,34 +1,50 @@
 ---
-title: "The Team"
+title: "Research Group"
 description: ""
-draft: false
 bg_image: "images/lonja.jpg"
-layout: "staticlist"
+layout: "contentpage"
+draft: false
 
 
-features:
+about:
   enable : true
+  image : ""
   title : ""
-  feature_item:
-  # collection item loop
+  content : |
+    ## Principal investigators
 
-  # team item
-  - name : "Luis Jure"
-    link : 
-        url: "http://www.eumus.edu.uy/docentes/jure/"
-        text : "Visit Luis's personal page"   
-    content : "Team leader"
+    - #### Luis Jure  
+    [Personal page](http://www.eumus.edu.uy/docentes/jure/)
 
-  # team item
-  - name : "Martín Rocamora"
-    link : 
-        url: "https://rocamora.uy"
-        text : "Visit Martín's personal page"   
-    content : "Team leader"
+    - #### Martín Rocamora
+    [Personal page](https://rocamora.uy/)
 
-  # team item
-  - name : "Santiago Bogacz"
+    ## Team members
 
-# team item
-  - name : "Jimena Arruti"
+    - #### Santiago Bogacz
+
+    ## Former team members
+
+    - #### Jimena Arruti
+
+    - #### Iván Meresman-Higgs
+
+    - #### Juan Martín López
+
+    ## Collaborators and co-authors
+
+    - #### Rainer Pollak
+
+    - #### Nori Jacoby
+
+    - #### Magdalena Fuentes
+
+    - #### Luiz W. P. Bizcainho
+
+    - #### Kelly Jakubowski
+
+    - #### Lucas Simõe Maia
+
+    - #### Martin Clayton
+
 ---

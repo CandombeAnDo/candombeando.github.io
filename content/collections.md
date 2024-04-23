@@ -18,23 +18,19 @@ cumplan con los requisitos técnicos adecuados para el análisis computacional d
     link : 
         url: "https://osf.io/WFX7K/"
         text :  "https://osf.io/WFX7K/"   
-    content : "A collection of audiovisual recordings of Uruguayan Candombe drum ensemble performances, with
-detailed annotations (beat, downbeats, onsets, etc.)."
+    content : "A collection of audiovisual recordings of Uruguayan Candombe drum ensemble performances, with detailed annotations (beat, downbeats, onsets, etc.)."
 
 # collection item
-  - name : "Uruguayan Candombe Beat and Downbeat"
+  - name : "Uruguayan candombe drumming – beat and downbeat tracking data set"
     link : 
-        url: "http://www.eumus.edu.uy/candombe/datasets/ISMIR2015/"
-        text :  "http://www.eumus.edu.uy/candombe/datasets/ISMIR2015/"
-    content : "A dataset of audio recordings of Uruguayan Candombe drum ensemble performances with annotated
-beats and downbeats."
+        url: "https://zenodo.org/records/6533068"
+        text :  "https://zenodo.org/records/6533068"
+    content : "A dataset of audio recordings of Uruguayan Candombe drum ensemble performances with annotated beats and downbeats."
 
 # collection item
-  - name : "IEMP - Interpersonal Entrainment in Music Performance (AHRC, 2016-2018)"
+  - name : "IEMP – Interpersonal Entrainment in Music Performance (AHRC, 2016-2018)"
     link : 
         url: "https://musicscience.net/projects/iemp/"
         text :  "https://musicscience.net/projects/iemp/"
-    content : "El objetivo del proyecto fue desarrollar una mejor comprensión de cómo los grupos de personas
-coordinan su comportamiento dentro de un contexto musical, considerando una amplia gama de
-tradiciones musicales."
+    content : "The IEMP project aims to develop a better understanding of how groups of people coordinate behaviour within a musical context from a cross-cultural perspective."
 ---

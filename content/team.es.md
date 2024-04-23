@@ -1,34 +1,51 @@
 ---
-title: "Equipo"
+title: "Research Group"
 description: ""
-draft: false
 bg_image: "images/lonja.jpg"
-layout: "staticlist"
+layout: "contentpage"
+draft: false
 
 
-features:
+about:
   enable : true
+  image : ""
   title : ""
-  feature_item:
-  # collection item loop
+  content : |
+    ## Investigadores responsables
 
-  # team item
-  - name : "Luis Jure"
-    link : 
-        url: "http://www.eumus.edu.uy/docentes/jure/"
-        text :  "Ver la página personal de Luis"   
-    content : "Responsable"
+    - #### Luis Jure  
+    [Página personal](http://www.eumus.edu.uy/docentes/jure/)
 
-  # team item
-  - name : "Martín Rocamora"
-    link : 
-        url: "https://rocamora.uy"
-        text :  "Ver la página personal de Martín"   
-    content : "Responsable"
+    - #### Martín Rocamora
+    [Página personal](https://rocamora.uy/)
 
-  # team item
-  - name : "Santiago Bogacz"
+    ## Integrantes del equipo
 
-# team item
-  - name : "Jimena Arruti"
+    - #### Santiago Bogacz
+
+    ## Antiguos integrantes del equipo
+
+    - #### Jimena Arruti
+
+    - #### Iván Meresman-Higgs
+
+    - #### Juan Martín López
+
+    ## Colaboradores y co-autores
+
+    - #### Rainer Polak
+
+    - #### Nori Jacoby
+
+    - #### Magdalena Fuentes
+
+    - #### Luiz W. P. Bizcainho
+
+    - #### Kelly Jakubowski
+
+    - #### Lucas Simõe Maia
+
+    - #### Martin Clayton
+
 ---
+

@@ -12,56 +12,19 @@ about:
   image : "images/company/about.jpg"
   title : "Documentation and analysis of candombe drumming"
   content : |
-    The candombe tradition in general, and candombe drumming in particular, is widely recognized as one
-    of the most characteristic traits of Uruguayan popular culture. For this reason, we have been working
-    for several years on the documentation and analysis of various aspects of candombe drumming.
-    However, despite the importance of candombe culture and drum practice, most of Uruguayan society
-    associates candombe drumming primarily with the Call Parade and carnival comparsas. The referents
-    of the candombe culture remain anonymous and unknown to the larger society, and the few remaining
-    groups that represent the Afro-Uruguayan culture have been made invisible, undifferentiated from the
-    hundreds of groups of people who in recent years have come out to play the candombe drums
-    throughout Uruguay.
+    This project aims to achieve two goals: first, to document candombe drumming through high-quality audio and video recordings featuring reference players; and second, to conduct a detailed analysis of the rhythmic, technical, and musical aspects of candombe drumming. Through this work, we seek to contribute to a better understanding and appreciation of candombe culture.
 
-    Thus, a first objective of our work is the registration of groups of drummers that are referents of the
-    candombe tradition, seeking to preserve and document a rich intangible and ephemeral cultural
-    heritage.
+    The project is led by an [interdisciplinary team]({{< ref "/team" >}} "Research team"). Luis Jure, a composer with expertise in music theory, has been documenting and analyzing candombe drumming since the 1990s. Martín Rocamora, an electrical engineer, specializes in signal processing and machine learning for computational music analysis.
 
-    At the same time, we seek to generate a database of labeled audiovisual records that meets the
-    appropriate technical requirements for computational analysis of candombe drumming, a task that our
-    research team has been developing, using signal processing and machine learning techniques.
-    Our team has addressed the analysis of various technical and rhythmic aspects of candombe
-    drumming, such as automatic beat and downbeat tracking, rhythmic pattern classification, microtiming
-    analysis, and the study of synchronization and interpersonal interaction. To do that, an intermediate
-    approach between ethnomusicology and systematic or empirical musicology has been used, based on
-    music theory, ethnomusicology and computational musicology, for which own tools have been
-    developed, based on signal processing and machine learning.
+    We adopted an intermediate approach that combines elements of ethnomusicology, systematic musicology, and empirical musicology. This approach is based on music theory, ethnomusicology, and computational musicology. In this research, new tools were developed and existing tools were optimized to extract meaningful musical information directly from audio and, in some cases, video recordings. We used traditional digital signal processing and music information retrieval techniques, as well as innovative machine learning techniques, for automatic analysis and data extraction and visualization in computer-aided analysis.
 
-    Since 1990 one of the leaders of the team has been making field recordings of traditional candombe
-    groups from the Sur and Palermo neighborhoods. The recordings obtained at that time were used to
-    analyze various aspects of candombe drumming, and the results of the research were presented at
-    regional congresses.
+    The results of our research have been presented at several international conferences, like AAWM, AES–LAC, CICTeM, CIM, FMA, ICTM, ISMIR, RPPW, SMT, and SoMoS. Our [list of publications]({{< ref "/publications" >}} "List of publications") now includes journal articles, book chapters, and conference papers focusing on the analysis of technical and rhythmic aspects of candombe drumming. These publications cover topics such as automatic beat and downbeat tracking, rhythmic pattern analysis and classification, microtiming analysis, improvisation techniques, and the study of synchronization and interpersonal interaction.
 
-    In 1992 he carried out a first series of “studio” sessions, with four ensembles of four drums,
-    representatives of the Sur, Palermo and Cordón Norte/Tres Cruces neighborhoods. Outstanding
-    drummers such as Eduardo “Malumba” Giménez, Luis Giménez, Fernando “Lobo” Núñez, Mariano
-    Barroso, Wilson Martirena, Raúl “Neno” Magariños, Julio Magariños and Luis “Mocambo” Quiroz
-    participated in them. Video and multichannel audio shots were taken, with domestic equipment
-    available at the time.
+    We have also [collaborated]({{< ref "team#collaborators-and-co-authors" >}} "List of collaborators and co-authors") with researchers from various countries who are working on related topics, and we have participated in several [international projects]({{< ref "/projects" >}} "List of projects").
 
-    In 1995, and thanks to financing through a CSIC project, a session was held with three ensembles of
-    four drums in a recording studio, with professional audio and video equipment. Referents from the Sur
-    and Palermo (Cuareim and Ansina) neighborhoods participated, such as brothers Juan, Raúl and
-    Waldemar “Cachila” Silva, José Pedro “Perico” Gularte, Eduardo “Cacho” Giménez, brothers Gustavo
-    and Edinson “Palo” Oviedo, Raúl “Neno” Magariños, Fernando “Hurón” Silva and Sergio Ortuño. Several of
-    the participating drummers have since passed away, and the recordings made then are the only
-    audiovisual document of their playing.
+    The creation of [audio and video recordings]({{< ref "/recordings" >}} "List of recordings") of candombe performances is another crucial aspect of this project, as the quality and quantity of data are vital for the type of analysis conducted. Additionally, these recordings have inherent significance in documenting and safeguarding a culturally valuable tradition.
 
-    In 2014, the two leaders of our team jointly organized a session with five prominent drummers, all
-    belonging to families with a long tradition in the Ansina playing style. State-of-the-art technology
-    became available, and high-quality digital audio and video recordings were realized, including stereo
-    and multi-channel audio recordings, high-definition video recordings, and high-speed video.
-    Since then, the team has been making numerous recordings in different circumstances, and in this
-    way has compiled a collection of more than 80 recordings in which more than 60 performers have
-    participated.
+    We have been documenting candombe drumming for over 30 years, and we continue to expand our collection. Apart from several field recordings of large groups, we currently have over 70 complete performances from 15 studio sessions, totaling more than seven hours of audio. The groups range from three to nine drums, involving over 60 players representing different generations and neighborhood styles. Each performance is captured in both multi-track (one drum per track) and stereo audio recordings, along with video recordings. Detailed information such as session date, location, performers, and equipment used is available for each recording, along with annotations of the metrical structure and timing onsets for each track. Some parts of the collection have been released as [data sets]({{< ref "/collections" >}} "Data sets") for research purposes.
+
 
 ---
