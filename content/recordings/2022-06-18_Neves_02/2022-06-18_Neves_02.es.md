@@ -15,7 +15,7 @@ audio_rec: "Martín Rocamora, Santiago Bogacz, Luis Jure"
 video_rec: "FIC team"  
 audio_ed: "Luis Jure"  
 video_ed: "Luis Jure"  
-description: "Sesión de grabación en el marco del proyecto “Documentacion y análisis del candombe uruguayo”, financiado por la CSIC, agencia de investigación de la Universidad de la República. La sesión se realizó en colaboración con la FIC."  
+description: "Sesión de grabación en el marco del proyecto “Documentacion y análisis del candombe uruguayo” dirigido por Luis Jure y Martín Rocamora, con financiación de la CSIC, agencia de investigación de la Universidad de la República. La sesión se realizó en colaboración con la FIC."  
 tags: ""  
 
 ---
