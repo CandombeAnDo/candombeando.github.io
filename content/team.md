@@ -43,7 +43,7 @@ about:
 
     - #### Kelly Jakubowski
 
-    - #### Lucas Simõe Maia
+    - #### Lucas Simões Maia
 
     - #### Martin Clayton
 

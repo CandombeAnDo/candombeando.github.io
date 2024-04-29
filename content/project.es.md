@@ -12,60 +12,18 @@ about:
   image : "images/company/about.jpg"
   title : "Análisis y documentación del candombe"
   content : |
-    La tradición del candombe en general, y el toque del tambor en particular, es ampliamente reconocido
-    como uno de los rasgos más característicos de la cultura popular del Uruguay. Por esta razón,
-    venimos trabajando desde hace varios años en la documentación y el análisis de diversos aspectos
-    del toque del tambor de candombe.
+    Este proyecto tiene un doble propósito: por un lado, documentar el toque del tambor de candombe mediante registros de audio y video de alta calidad de tamborileros referentes; por otra parte, analizar aspectos rítmico, técnicos y musicales del toque del tambor. De esta manera, buscamos contribuir a un mayor conocimiento y valoración del candombe.
 
-    A pesar de la importancia de la cultura del candombe y la práctica del tambor, la mayoría de la
-    sociedad uruguaya asocia el toque del tambor principalmente con el Desfile de Llamadas y las
-    comparsas del carnaval. Los referentes de la cultura del candombe permanecen anónimos y
-    desconocidos para la sociedad mayor, y los pocos colectivos que quedan representantes de la cultura
-    afrouruguaya, han sido invisibilizados, indiferenciados de los cientos de grupos de personas que en
-    los últimos años salen a tocar el tambor en todo el Uruguay.
-    Así, un primer objetivo de nuestro trabajo es el registro de grupos de tamborileros referentes de la
-    tradición del candombe, buscando preservar y documentar un rico patrimonio cultural intangible y
-    efímero.
+    El proyecto es llevado adelante por un [equipo interdisciplinario]({{< ref "/team" >}}). Luis Jure, un compositor con formación en teoría de la música, viene documentando y analizando el toque del tambor desde comienzos de la década de 1990. Martín Rocamora, un ingeniero eléctrico, se especializa en procesamiento de señales y aprendizaje automático para análisis computacional de música.
 
-    A su vez, buscamos generar una base de datos de registros audiovisuales etiquetados que cumpla
-    con los requisitos técnicos adecuados para el análisis computacional del toque del tambor, tarea que
-    viene desarrollando nuestro equipo de investigación, usando técnicas de procesamiento de señales y
-    aprendizaje automático.
+    Adoptamos un enfoque intermedio entre la etnomusicología, la musicología sistemática y la musicología empírica, combinando elementos de teoría de la música, etnomusicología y musicología computacional. En el marco de este proyecto se desarrollaron nuevas herramientas y se optimizaron herramientas existentes, para la extracción de información musical directamente de las grabaciones de audio, y en algunos casos también de video. Utilizamos tanto técnicas tradicionales de procesamiento de señales digitales como técnicas más novedosas de aprendizaje automático, para análisis automático y para extracción y visualización de datos en el análisis asistido por computadora.
 
-    El equipo ha abordado el análisis de diversos aspectos técnicos y rítmicos del toque del tambor, como
-    ser el reconocimiento del tiempo y el compás (beat y downbeat), la clasificación de patrones rítmicos,
-    los aspectos de microtiempo, el sincronismo y la interacción interpersonal. Para ello se ha utilizado un
-    enfoque intermedio entre la etnomusicología y la musicología sistemática o empírica, con base en la
-    teoría musical, la etnomusicología y la musicología computacional, para lo que se han desarrollado
-    herramientas propias, basadas en procesamiento de señales y aprendizaje automático.
-    Desde el año 1990 uno de los responsables de este proyecto (Jure) viene realizando registros de
-    campo de cuerdas tradicionales de los barrios Sur y Palermo. Grabaciones obtenidas en esa época
-    fueron utilizadas para analizar diversos aspectos del toque del tambor, y los resultados de la
-    investigación fueron presentados en congresos regionales.
+    Los resultados de nuestra investigación han sido presentados en numerosos congresos internacionales, como AAWM, AES–LAC, CICTeM, CIM, FMA, ICTM, ISMIR, RPPW, SMT, y SoMoS. Nuestra [lista de publicaciones]({{< ref "/publications" >}} "Lista de publicaciones") incluye artículos de revista, capítulos de libro y artículos de conferencia, enfocados al análisis de aspectos técnicos y rítmicos del toque del tambor, tales como el seguimiento automático de tiempo y compás, análisis y clasificación de patrones rítmicos, análisis de mictrotiempo, técnicas de improvisación, y estudio de la sincronización e interacción interpersonal entre los tocadores. 
 
-    En el año 1992 realiza una primera serie de sesiones “de estudio”, con cuatro cuerdas de cuatro
-    tambores, representantes de los barrios Sur, Palermo y Cordón Norte/Tres Cruces. En las mismas
-    participaron tamborileros destacados como Eduardo “Malumba” Giménez, Luis Giménez, Fernando
-    “Lobo” Núñez, Mariano Barroso, Wilson Martirena, Raúl “Neno” Magariños, Julio Magariños y Luis
-    “Mocambo” Quiroz. Se realizaron tomas de video y de audio multicanal, con equipamiento doméstico
-    disponible en la época.
+    También hemos [colaborado]({{< relref path="team.es.md#colaboradores-y-co-autores" >}} "Lista de colaboradores y co-autores") con investigadores de varios países que están trabajando en temáticas afines, y hemos participado en diversos [proyectos internacionales]({{< ref "/projects" >}} "Lista de proyectos").
 
-    En el año 1995, y gracias al financiamiento mediante un proyecto de la CSIC, se realizó una sesión
-    con tres cuerdas de cuatro tambores en un estudio de grabación, con equipamiento profesional de
-    audio y video. Participaron referentes de los barrios Sur y Palermo (Cuareim y Ansina), como los
-    hermanos Juan, Raúl y Waldemar “Cachila” Silva, José Pedro “Perico” Gularte, Eduardo “Cacho”
-    Giménez, los hermanos Gustavo Edinson “Oviedo”, Raúl “Neno” Magariños, Fernando “Hurón” Silva y
-    Sergio Ortuño. Varios de los tamborileros participantes ya han fallecido, y los registros realizados
-    entonces son el único documento audiovisual de su toque.
+    La generación de [registros de audio y video]({{< ref "/recordings" >}} "Lista de grabaciones") de candombe es también un componente fundamental de este proyecto, ya que la calidad y la cantidad de datos es esencial para el tipo de análisis que realizamos. Pero esta colección es además muy valiosa en sí misma, ya que contribuye a documentar y preservar una tradición de gran valor cultural.
 
-    En el año 2014, los dos responsables de este proyecto organizaron una sesión con cinco destacados
-    tamborileros, todos pertenecientes a familias de larga tradición en el estilo de toque de la calle
-    Ansina. Se dispuso de tecnología más moderna, y se realizaron tomas de audio y video digitales de
-    alta calidad, incluyendo tomas de audio estéreo y multicanal, tomas de video en alta definición, y
-    video de alta velocidad.
-
-    Desde entonces, el equipo ha venido realizando numerosos registros en diferentes circunstancias, y
-    de este modo ha recopilando una colección de más de 80 grabaciones en la que han participado más
-    de 60 intérpretes.
+    Hemos estado registrando toques del tambor por más de 30 años, y continuamos expandiendo nuestra colección. Además de numerosas grabaciones de campo de cuerdas de tambores tocando en la calle, tenemos actualmente más de 70 grabaciones de estudio realizadas en 15 sesiones, totalizando más de siete horas de toques. El tamaño de los grupos varía de tres a nueve tambores, involucrando a más de 60 tamborileros representantes de diversas generaciones de los distintos estilos barriales. Cada interpretación cuenta con registros de audio estéreo y multicanal (un tambor por canal), así como registro en video. Se incluye además información detallada de cada registro, al como lugar y fecha del registro, participantes, técnicos y equipamiento utilizado, así como etiquetas de tiempo y compás de cada interpretación, y ubicación temporal de eventos de cada pista. Partes de la colección han sido publicadas como [colecciones de datos]({{< ref "/collections" >}} "Data sets") para investigación.
 
 ---

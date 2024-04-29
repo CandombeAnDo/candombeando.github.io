@@ -26,10 +26,4 @@ features:
         text :  "https://zenodo.org/records/6533068"
     content : "Un conjunto de datos de grabaciones de audio de interpretaciones de conjuntos de tambores de Candombe uruguayo con anotaciones de pulso y compás."
 
-# collection item
-  - name : "IEMP – Interpersonal Entrainment in Music Performance (AHRC, 2016-2018)"
-    link : 
-        url: "https://musicscience.net/projects/iemp/"
-        text :  "https://musicscience.net/projects/iemp/"
-    content : "El objetivo del proyecto fue desarrollar una mejor comprensión de cómo los grupos de personas coordinan su comportamiento dentro de un contexto musical, considerando una amplia gama de tradiciones musicales."
 ---

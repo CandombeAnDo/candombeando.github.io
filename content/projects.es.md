@@ -43,9 +43,4 @@ tradiciones musicales."
     content : "En este proyecto se abordó el análisis de la interpretación de música mediante técnicas de
 procesamiento multimodal de señales, tomando el Candombe afro-uruguayo como caso de estudio."
 
-# project item
-  - name : "Iniciación a la documentación y análisis del candombe afro–montevideano (CSIC, 1995-1996)"
-    content : "El propósito de este proyecto fue la realización de registros audiovisuales de grupos de tambores
-referentes de los estilos tradicionales de Cuareim y Ansina, con la finalidad de documentar su toque y
-de generar material para el análisis."
 ---
