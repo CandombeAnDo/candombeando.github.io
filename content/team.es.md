@@ -1,5 +1,5 @@
 ---
-title: "Research Group"
+title: "Equipo de investigación"
 description: ""
 bg_image: "images/lonja.jpg"
 layout: "contentpage"
@@ -43,7 +43,7 @@ about:
 
     - #### Kelly Jakubowski
 
-    - #### Lucas Simõe Maia
+    - #### Lucas Simões Maia
 
     - #### Martin Clayton
 
