@@ -18,7 +18,7 @@ features:
         url: "https://candombeando.uy"
         text :  "https://candombeando.uy"   
     content : "The objective of this project was to deepen the ongoing research on candombe drumming through
-computational techniques, expanding the existing database through a series of recordings with
+computational techniques, expanding the existing database with a series of recordings with
 drummers who are referents of traditional neighborhood styles."
 
 # project item
@@ -26,20 +26,17 @@ drummers who are referents of traditional neighborhood styles."
     link : 
         url: "http://www.smt.ufrj.br/~starel"
         text :  "http://www.smt.ufrj.br/~starel"
-    content : "The project aim was to gain insight into the understanding and modeling of the rhythmic/metrical
-structure in audio recordings of expressive music performances."
+    content : "The goal of the project was to gain insight into the understanding and modeling of rhythmic/metric structure in audio recordings of expressive musical performances."
 
 # project item
   - name : "IEMP - Interpersonal Entrainment in Music Performance (AHRC, 2016-2018)"
     link : 
         url: "https://musicscience.net/projects/iemp/"
         text :  "https://musicscience.net/projects/iemp/"
-    content : "The project aim was to develop a better understanding of how groups of people coordinate behavior
-within a musical context, considering a broad range of musical cultures."
+    content : "The goal of the project was to develop a better understanding of how groups of people coordinate their behavior in a musical context, taking into account a wide range of musical cultures."
 
 # project item
   - name : "Iniciación a la documentación y análisis del candombe afro–montevideano (CSIC, 1995-1996)"
-    content : "The purpose of this project was to produce audiovisual recordings of groups of drum players who are
-referents of the traditional styles of Cuareim and Ansina, with the aim of documenting their
-performance and generating material for analysis."
+    content : "The purpose of this project was to produce audiovisual recordings of groups of candombe drummers who are referents of the traditional styles of Cuareim and Ansina, with the aim of documenting their performance and generating material for analysis."
+
 ---
