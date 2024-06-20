@@ -15,6 +15,7 @@ audio_rec: "Martín Rocamora, Santiago Bogacz, Luis Jure"
 video_rec: "FIC team"  
 audio_ed: "Luis Jure"  
 video_ed: "Luis Jure"  
+credits: "Audio recording: Martín Rocamora, Santiago Bogacz, Luis Jure  \n Cameras: FIC team  \n Audio and video editing: Luis Jure"  
 description: "Recording session in the framework of the project “Documentation and analysis of Uruguayan candombe drumming” conducted by Luis Jure and Martín Rocamora, funded by CSIC, the research agency of the University. The session was produced in collaboration with FIC."  
 tags: ""  
 

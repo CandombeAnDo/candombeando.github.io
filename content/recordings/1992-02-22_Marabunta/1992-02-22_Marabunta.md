@@ -11,6 +11,7 @@ category: ["field" , "audio"]
 participants: "Group of drummers from the *comparsa* Marabunta, Buceo neighborhood"  
 audio_rec: "Luis Jure"  
 audio_ed: "Luis Jure"  
+credits: "Recording and editing: Luis Jure"  
 description: "Leaving the stage after the show during the carnival contest"  
 tags:  
 

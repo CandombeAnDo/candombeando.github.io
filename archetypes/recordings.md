@@ -15,6 +15,7 @@ audio_rec: ""
 video_rec: "if audiovisual"  
 audio_ed: ""  
 video_ed: "if audiovisual"  
+credits: "resumen de los créditos, para la página"  
 description: ""  
 tags: (para asociar a un proyecto)  
 
