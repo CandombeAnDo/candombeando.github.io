@@ -11,6 +11,7 @@ category: ["campo" , "audio"]
 participants: "Cuerda de tambores de la comparsa Sarabanda, barrio Cordón"  
 audio_rec: "Luis Jure"  
 audio_ed: "Luis Jure"  
+credits: "Grabación y edición: Luis Jure"  
 description: "Salida del escenario luego de la actuación en el concurso de carnaval"  
 tags:  
 
