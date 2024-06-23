@@ -33,7 +33,7 @@ about:
 
     ## Collaborators and co-authors
 
-    - #### Rainer Pollak
+    - #### Rainer Polak
 
     - #### Nori Jacoby
 
