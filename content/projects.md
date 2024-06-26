@@ -37,6 +37,6 @@ drummers who are referents of traditional neighborhood styles."
 
 # project item
   - name : "Iniciación a la documentación y análisis del candombe afro–montevideano (CSIC, 1995-1996)"
-    content : "The purpose of this project was to produce audiovisual recordings of groups of candombe drummers who are referents of the traditional styles of Cuareim and Ansina, with the aim of documenting their performance and generating material for analysis."
+    content : "The purpose of this project was to make audiovisual recordings of groups of candombe drummers who are referents of the traditional styles of Cuareim and Ansina, with the aim of documenting their performance and generating material for analysis."
 
 ---
