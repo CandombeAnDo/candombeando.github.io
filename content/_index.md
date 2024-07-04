@@ -6,6 +6,7 @@ banner:
   bg_overlay: true
   image: "images/cando-iso.svg"
   title: "Candombe, analysis and documentation"
+  description: "Homepage of the project “Analysis and documentation of Uruguayan candombe drumming”"
   subtitle: ""
   content: 
   button:
@@ -17,32 +18,6 @@ banner:
 separator:
   bg_image: "images/franja.png"
   
-############################# About #################################
-about:
-  enable: false
-  title: "About us"
-  description: ""
-  content: ""
-  image: "images/wrapper-img.png"
-  image_top: "images/franja.png"
-
-
-######################### Portfolio ###############################
-portfolio:
-  enable: false
-  bg_image: "images/feature-bg.jpg"
-  title: ""
-  content: "  "
-  button:
-    enable: true
-    label: "View Works"
-    link: "project/"
-
-
-############################# Service ############################
-service:
-  enable: false
-  # service content comes from "service.md" file
 
 ############################ about ###########################
 project_info:

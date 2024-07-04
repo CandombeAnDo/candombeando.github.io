@@ -6,6 +6,7 @@ banner:
   bg_overlay: true
   image: "images/cando-iso.svg"
   title: "Candombe, análisis y documentación"
+  description: "Portal del proyecto “Documentación y análisis de candombe uruguayo”"
   content: 
   button:
     enable: false
