@@ -1,6 +1,6 @@
 ---
 title: "About Our Company"
-description: "this is meta description"
+description: ""
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
