@@ -11,7 +11,7 @@ about:
   image : ""
   title : ""
   content : |
-    ## Principal investigators
+    ## Research team
 
     - #### Luis Jure  
     [Personal page](http://www.eumus.edu.uy/docentes/jure/)
@@ -19,11 +19,9 @@ about:
     - #### Martín Rocamora
     [Personal page](https://rocamora.uy/)
 
-    ## Team members
+    ## Team collaborators
 
     - #### Santiago Bogacz
-
-    ## Former team members
 
     - #### Jimena Arruti
 
