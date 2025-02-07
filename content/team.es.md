@@ -11,7 +11,7 @@ about:
   image : ""
   title : ""
   content : |
-    ## Investigadores responsables
+    ## Equipo investigador
 
     - #### Luis Jure  
     [Página personal](http://www.eumus.edu.uy/docentes/jure/)
@@ -19,11 +19,9 @@ about:
     - #### Martín Rocamora
     [Página personal](https://rocamora.uy/)
 
-    ## Integrantes del equipo
+    ## Colaboradores del equipo
 
     - #### Santiago Bogacz
-
-    ## Antiguos integrantes del equipo
 
     - #### Jimena Arruti
 

@@ -38,8 +38,5 @@ rítmica/métrica en grabaciones de audio de interpretaciones musicales expresiv
 coordinan su comportamiento dentro de un contexto musical, considerando una amplia gama de
 tradiciones musicales."
 
-# project item
-  - name : "Iniciación a la documentación y análisis del candombe afro–montevideano (CSIC, 1995-1996)"
-    content : "El objetivo de este proyecto era producir registros audiovisuales de grupos de tamborileros de candombe referentes de los estilos tradicionales de Cuareim y Ansina, con el fin de documentar su toque y generar material para el análisis."
 
 ---

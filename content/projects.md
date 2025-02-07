@@ -35,8 +35,4 @@ drummers who are referents of traditional neighborhood styles."
         text :  "https://musicscience.net/projects/iemp/"
     content : "The goal of the project was to develop a better understanding of how groups of people coordinate their behavior in a musical context, taking into account a wide range of musical cultures."
 
-# project item
-  - name : "Iniciación a la documentación y análisis del candombe afro–montevideano (CSIC, 1995-1996)"
-    content : "The purpose of this project was to make audiovisual recordings of groups of candombe drummers who are referents of the traditional styles of Cuareim and Ansina, with the aim of documenting their performance and generating material for analysis."
-
 ---
