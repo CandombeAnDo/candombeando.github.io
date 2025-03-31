@@ -14,7 +14,7 @@ about:
     ## Equipo investigador
 
     - #### Luis Jure  
-    [Página personal](http://www.eumus.edu.uy/docentes/jure/)
+    [Página personal](https://luisjure.org)
 
     - #### Martín Rocamora
     [Página personal](https://rocamora.uy/)
