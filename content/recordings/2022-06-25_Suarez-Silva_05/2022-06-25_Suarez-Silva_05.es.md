@@ -7,7 +7,7 @@ date: 2022-06-25
 id : 2022FicSuarezSilva05
 place: "Facultad de Información y Comunicación -- FIC"  
 location: "Montevideo, Uruguay"  
-category: ["estudio", "video"]
+category: "Palermo/Ansina"  
 participants: "Wellington Suárez, Héctor Manuel Suárez, Mario Suárez, Martín Silva"  
 curator: "Luis Jure"  
 producer: "Luis Jure, Martín Rocamora"  
